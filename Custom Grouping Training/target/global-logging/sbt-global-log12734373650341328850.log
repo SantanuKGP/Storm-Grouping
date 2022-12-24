@@ -1,0 +1,10 @@
+[debug] > Exec(assembly, None, None)
+[debug] Evaluating tasks: assembly
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Work\MyTraining\ScalaTraining\Storm Training\Custom Grouping Training\target\scala-2.13\classes ...
+[info] done compiling
+[warn] multiple main classes detected: run 'show discoveredMainClasses' to see the list
+[info] Strategy 'discard' was applied to a file (Run the task at debug level to see details)
+[warn] Ignored unknown package option FixedTimestamp(Some(1262304000000))
+[success] Total time: 3 s, completed Dec 19, 2022, 7:21:19 PM
+[debug] > Exec(idea-shell, None, None)

@@ -1,0 +1,5 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Work/MyTraining/ScalaTraining/Storm%20Training/multiple-fields-grouping/project/"), "multiple-fields-grouping-build")...
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[debug] Done updating ProjectRef(uri("file:/C:/Work/MyTraining/ScalaTraining/Storm%20Training/multiple-fields-grouping/project/"), "multiple-fields-grouping-build")

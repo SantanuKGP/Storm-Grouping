@@ -1,0 +1,5 @@
+.bsp
+.idea
+target/global-logging
+target/streams
+target/task-temp-directory
